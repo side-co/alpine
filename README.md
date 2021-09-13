@@ -1,6 +1,6 @@
 # alpine
 
-Based on **alpine:3.10.3**
+Based on **alpine:3.4**
 
 Image used to run our go services.
 
